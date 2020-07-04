@@ -1,5 +1,8 @@
 # muzos
 
+This project has music and radio for which I do not have a license, so if you want to use this project, better change it.
+Some music and pictures is missing.
+
 ## Project setup
 ```
 npm install
