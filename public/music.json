@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "urlm": "https://github.com/EntitledGroup/Musoxxx/raw/master/Quebonafide%20-%20TOKYO2020.mp3",
+      "urlc": "https://images.genius.com/d1f9c5b434969e264beecb50db041d8a.1000x1000x1.png",
+      "title": "TOKIO 2020",
+      "author": "Quebonafide",
+      "album": "ROMANTIC PSYCHO"
+    },
+    {
+      "id": 2,
+      "urlm": "https://github.com/EntitledGroup/Musoxxx/raw/master/Vicetone%20%26%20Tony%20Igy%20-%20Astronomia.mp3",
+      "urlc": "https://github.com/EntitledGroup/Musoxxx/blob/master/Annotation%202020-04-08%20182728.png?raw=true",
+      "title": "Astronomia",
+      "author": "Vicetony & Tony Igy",
+      "album": "Astronomia"
+    },
+    {
+      "id": 3,
+      "urlm": "https://github.com/MatisGames/MusoX-Storager/raw/master/Muzyka/MP3/PRO8L3M%20-%20Flary%20.mp3",
+      "urlc": "https://images.genius.com/ab60a2068d2d310d9ba120ae4069ddb1.960x960x1.jpg",
+      "title": "FLARY",
+      "author": "PRO8LEM",
+      "album": "Single"
+    },
+    {
+      "id": 4,
+      "urlm": "https://github.com/EntitledGroup/Musoxxx/raw/master/%C5%81ona%20i%20Webber%20-%20Co%20tam%2C%20mordo.mp3",
+      "urlc": "https://asfaltshop.pl/uploads2/photos/big/2020/03/20/20200320020631_%C5%81ona.JPG",
+      "title": "Co tam, Mordo?",
+      "author": "Łona i Webber",
+      "album": "Śpiewnik Domowy"
+    },
+    {
+      "id": 5,
+      "urlm": "https://github.com/EntitledGroup/Musoxxx/raw/master/Quebonafide%20-%20BUBBLETEA.mp3",
+      "urlc": "https://images.genius.com/d1f9c5b434969e264beecb50db041d8a.1000x1000x1.png",
+      "title": "BUBBLETEA",
+      "author": "QUEBONAFIDE",
+      "album": "ROMANTIC PSYCHO"
+    }
+  ]

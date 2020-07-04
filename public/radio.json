@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "urlm": "http://31.192.216.8/rmf_party",
+      "urlc": "https://upload.wikimedia.org/wikipedia/commons/f/f4/EskaTV_logo_2011.png",
+      "title": "Eska"
+    },
+    {
+      "id": 2,
+      "urlm": "http://mel0101.cdn.eurozet.pl:8800/mel-net.mp3",
+      "urlc": "https://gfx.meloradio.pl/design/meloradio/images/layout/logo.png",
+      "title": "Melo Radio"
+    },
+    {
+      "id": 3,
+      "urlm": "http://195.150.20.6/rmf_fm",
+      "urlc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/RMF_FM_logo.svg/240px-RMF_FM_logo.svg.png",
+      "title": "Rmf FM"
+    },
+    {
+      "id": 4,
+      "urlm": "http://195.150.20.6/rmf_maxxx",
+      "urlc": "https://polskafm.com/sites/default/files/radio/logos/logo-rmf-maxxx.png",
+      "title": "RMF FM MAXXX"
+    },
+    {
+      "id": 5,
+      "urlm": "http://streaming.tvs.pl:8010/plus.aac",
+      "urlc": "http://silesia.fm/wp-content/uploads/2014/11/logo-radio.png",
+      "title": "Silesia"
+    },
+    {
+        "id": 6,
+        "urlm": "http://poznan5-6.radio.pionier.net.pl:8000/tuba9-1.mp3",
+        "urlc": "https://open.fm/logo/200x200/201",
+        "title": "Radio Złote Przeboje"
+    },
+    {
+        "id": 7,
+        "urlm": "http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3",
+        "urlc": "https://www.radio90.pl/media2019/pic/logo-fm.png",
+        "title": "Radio 90"
+      }
+  ]
